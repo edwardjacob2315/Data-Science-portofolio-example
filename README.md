@@ -1,2 +1,2 @@
-# Data-Science-portofolio-example
-Creating portofolio
+# Simple Python Exercise
+Simple Exercise to refresh my syntax memory
